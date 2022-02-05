@@ -3,6 +3,7 @@
     "displayName": "Mystika Dark Theme",
     "description": "A clean dark visual studio theme, that combines the purple of the interface with shades of orange, green and blue.",
     "author": "Bastián Parra Valenzuela",
+    "publisher": "Bastianpv",
     "version": "1.0.0",
     "icon": "icon.png",
     "engines": {
