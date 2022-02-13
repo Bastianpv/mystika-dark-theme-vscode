@@ -1,4 +1,6 @@
 # Change Log
+## [1.1.3] - 2022-02-13
+- Bugs fixed.
 
 ## [1.1.1] - 2022-02-13
 - Docs updated.
