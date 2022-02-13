@@ -1,17 +1,17 @@
 {
     "name": "mystika-dark-theme",
     "displayName": "Mystika Dark Theme",
-    "description": "A clean dark visual studio theme, that combines the purple of the interface with shades of orange, red, green and blue.",
+    "description": "A clean dark visual studio code theme, that combines the purple of the interface with shades of orange, red, green and blue.",
     "author": "Bastián Parra Valenzuela",
     "publisher": "Bastianpv",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "icon": "icon.png",
     "engines": {
         "vscode": "1.64.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Bastianpv/mystika-dark-theme"
+        "url": "https://github.com/Bastianpv/mystika-dark-theme-vscode"
     },
     "license": "GPL-3.0 License",
     "categories": [
