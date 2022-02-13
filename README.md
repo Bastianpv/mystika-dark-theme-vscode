@@ -5,9 +5,9 @@ A clean dark visual studio code theme, that combines the purple of the interface
 
 Based on One Dark Pro theme template.
 ## Screenshoots
-![Screenshoot 1](https://raw.githubusercontent.com/Bastianpv/mystika-dark-theme/main/Screenshots/screenshoot1.png?)
+![Screenshoot 1](https://raw.githubusercontent.com/Bastianpv/mystika-dark-theme-vscode/main/Screenshots/screenshoot1.png?)
 
-![Screenshoot 2](https://raw.githubusercontent.com/Bastianpv/mystika-dark-theme/main/Screenshots/screenshoot2.png?)
+![Screenshoot 2](https://raw.githubusercontent.com/Bastianpv/mystika-dark-theme-vscode/main/Screenshots/screenshoot2.png?)
 ## License
 This project is [GPL-3.0 License](https://github.com/Bastianpv/mystika-dark-theme/blob/master/LICENSE) licensed.
 
