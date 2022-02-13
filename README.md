@@ -1,5 +1,5 @@
 # Mystika Dark Theme
-![Version](https://img.shields.io/badge/version-1.1.0-blue.svg?cacheSeconds=2592000) [![License: GPL-3.0 License](https://img.shields.io/github/license/Bastianpv/mystika-dark-theme)](https://github.com/Bastianpv/mystika-dark-theme/blob/master/LICENSE)
+![Version](https://img.shields.io/badge/version-1.1.3-blue.svg?cacheSeconds=2592000) [![License: GPL-3.0 License](https://img.shields.io/github/license/Bastianpv/mystika-dark-theme)](https://github.com/Bastianpv/mystika-dark-theme/blob/master/LICENSE)
 
 A clean dark visual studio code theme, that combines the purple of the interface with shades of orange, red, green and blue.
 
